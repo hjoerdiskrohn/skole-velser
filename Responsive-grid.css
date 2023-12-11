@@ -19,7 +19,7 @@
 }
 
 #grid-container > * {
-    background-color: rgb(91, 201, 253);
+    background-color: rgb(91, 201, 256)
     text-align: center;
     padding: 20px 0;
     font-size: 30px;
